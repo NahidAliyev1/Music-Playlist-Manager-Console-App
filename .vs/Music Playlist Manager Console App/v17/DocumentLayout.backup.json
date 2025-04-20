@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Music Playlist Manager Console App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBB02CA-6C45-4EB5-8C84-F2E1B9273E44}|Music Playlist Manager Console App\\Music Playlist Manager Console App.csproj|c:\\users\\user\\source\\repos\\music playlist manager console app\\music playlist manager console app\\playlistservice\\playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFBB02CA-6C45-4EB5-8C84-F2E1B9273E44}|Music Playlist Manager Console App\\Music Playlist Manager Console App.csproj|solutionrelative:music playlist manager console app\\playlistservice\\playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBB02CA-6C45-4EB5-8C84-F2E1B9273E44}|Music Playlist Manager Console App\\Music Playlist Manager Console App.csproj|c:\\users\\user\\source\\repos\\music playlist manager console app\\music playlist manager console app\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFBB02CA-6C45-4EB5-8C84-F2E1B9273E44}|Music Playlist Manager Console App\\Music Playlist Manager Console App.csproj|solutionrelative:music playlist manager console app\\models\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBB02CA-6C45-4EB5-8C84-F2E1B9273E44}|Music Playlist Manager Console App\\Music Playlist Manager Console App.csproj|c:\\users\\user\\source\\repos\\music playlist manager console app\\music playlist manager console app\\songservice\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFBB02CA-6C45-4EB5-8C84-F2E1B9273E44}|Music Playlist Manager Console App\\Music Playlist Manager Console App.csproj|solutionrelative:music playlist manager console app\\songservice\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBB02CA-6C45-4EB5-8C84-F2E1B9273E44}|Music Playlist Manager Console App\\Music Playlist Manager Console App.csproj|c:\\users\\user\\source\\repos\\music playlist manager console app\\music playlist manager console app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFBB02CA-6C45-4EB5-8C84-F2E1B9273E44}|Music Playlist Manager Console App\\Music Playlist Manager Console App.csproj|solutionrelative:music playlist manager console app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFBB02CA-6C45-4EB5-8C84-F2E1B9273E44}|Music Playlist Manager Console App\\Music Playlist Manager Console App.csproj|c:\\users\\user\\source\\repos\\music playlist manager console app\\music playlist manager console app\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFBB02CA-6C45-4EB5-8C84-F2E1B9273E44}|Music Playlist Manager Console App\\Music Playlist Manager Console App.csproj|solutionrelative:music playlist manager console app\\models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Playlistservice.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Music Playlist Manager Console App\\Music Playlist Manager Console App\\PlaylistService\\Playlistservice.cs",
+              "RelativeDocumentMoniker": "Music Playlist Manager Console App\\PlaylistService\\Playlistservice.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Music Playlist Manager Console App\\Music Playlist Manager Console App\\PlaylistService\\Playlistservice.cs*",
+              "RelativeToolTip": "Music Playlist Manager Console App\\PlaylistService\\Playlistservice.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:40:10.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Songservice.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Music Playlist Manager Console App\\Music Playlist Manager Console App\\SongService\\Songservice.cs",
+              "RelativeDocumentMoniker": "Music Playlist Manager Console App\\SongService\\Songservice.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Music Playlist Manager Console App\\Music Playlist Manager Console App\\SongService\\Songservice.cs*",
+              "RelativeToolTip": "Music Playlist Manager Console App\\SongService\\Songservice.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:30:57.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Music Playlist Manager Console App\\Music Playlist Manager Console App\\Models\\Playlist.cs",
+              "RelativeDocumentMoniker": "Music Playlist Manager Console App\\Models\\Playlist.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Music Playlist Manager Console App\\Music Playlist Manager Console App\\Models\\Playlist.cs",
+              "RelativeToolTip": "Music Playlist Manager Console App\\Models\\Playlist.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:28:09.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Music Playlist Manager Console App\\Music Playlist Manager Console App\\Models\\Song.cs",
+              "RelativeDocumentMoniker": "Music Playlist Manager Console App\\Models\\Song.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Music Playlist Manager Console App\\Music Playlist Manager Console App\\Models\\Song.cs",
+              "RelativeToolTip": "Music Playlist Manager Console App\\Models\\Song.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:24:48.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Music Playlist Manager Console App\\Music Playlist Manager Console App\\Program.cs",
+              "RelativeDocumentMoniker": "Music Playlist Manager Console App\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Music Playlist Manager Console App\\Music Playlist Manager Console App\\Program.cs",
+              "RelativeToolTip": "Music Playlist Manager Console App\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:23:51.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
